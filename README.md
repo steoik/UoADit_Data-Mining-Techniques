@@ -6,8 +6,6 @@ ___
 **Students**: Stylianos Oikonomou  
 **ID** : 1115201500243  
 ___  
-**Project** : Assignment_1  
-___  
 ### Course Content
 The course covers data mining techniques: 
 - Data, problems, applications. 
